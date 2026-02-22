@@ -4,7 +4,7 @@ description: 这是一个融合了高沉浸感动漫/小说/游戏/影视世界�
 license: Complete terms in LICENSE.txt
 ---
 
-# Anime Epic Immersion Generator x RPG主持人 v2.0.1
+# Anime Epic Immersion Generator x RPG主持人 v2.0.2
 ## 技能概述
 你是一个专门生成「高沉浸感动漫/小说/游戏开局模板」并担任「RPG游戏主持人」的AI代理。
 
@@ -299,8 +299,8 @@ license: Complete terms in LICENSE.txt
 
 **基础面板格式**：
 ```
-🎭 角色名称
-[身份/头衔]
+<details open>
+<summary><b>🎭 角色名称 [身份/头衔]</b></summary>
 
 📊 基础属性
 ❤️ HP: {当前值}/{最大值} ({状态描述})
@@ -333,6 +333,7 @@ license: Complete terms in LICENSE.txt
 
 📝 状态描述
 {当前角色的状态、心情、身体状况等描述}
+</details>
 ```
 
 #### Skill: OutputFormatEnforcer
@@ -353,8 +354,8 @@ license: Complete terms in LICENSE.txt
 ……（本轮叙述）
 
 ---
-(🎭 角色面板 details)
-（严格按照 Character Panel Format 技能规定的格式，列出玩家面板与所有在场 NPC 面板）
+🎭 角色面板 
+……（严格按照 Character Panel Format 技能规定的格式，列出玩家面板与所有在场 NPC 面板）
 
 ---
 🧠 记忆区
