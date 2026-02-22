@@ -2,7 +2,7 @@
 
 这是一个融合了高沉浸感动漫/小说/游戏/影视世界背景的RPG游戏开局模板(高密度世界观 + 第一人称沉浸开局选择系统模板生成)与「逐轮分支互动RPG游戏主持」的综合技能。当你对支持 Agent Skills 的 AI（Android Operit、Claude、某些 VS Code 插件等）说： “使用 AEIG 技能，生成《鬼灭之刃》的游戏开局” 或或直接提供作品名+关键信息时，它会自动加载并输出完整的RPG开局模板，随后可作为RPG游戏主持人进行逐轮分支互动。
 
-# Anime Epic Immersion Generator x RPG主持人 v2.0.1
+# Anime Epic Immersion Generator x RPG主持人 v2.0.2
 
 #### 使用示例（极简版）
 (任意一部作品的名字 + 粗略核心设定即可生成高密度世界观 + 第一人称沉浸开局选择系统)
